@@ -11,7 +11,5 @@ The dataset is provided by Claxon Excellence Academy for Professionals as part o
 
 Source: Claxon Excellence Academy for Professionals competition dataset
 Description: Contains historical loan and borrower information with multiple features influencing default probability.
-Preprocessing: The data has been cleaned to handle missing values, outliers, and inconsistencies. Feature engineering steps were applied to enhance model performance.
-Methods
-We used several machine learning models and techniques to predict loan defaults. 
+
 
