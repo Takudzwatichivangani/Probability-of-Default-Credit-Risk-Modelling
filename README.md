@@ -58,8 +58,11 @@ API endpoints were created using FastAPI to enable model training and inference.
 After training and evaluating the models, the Random Forest classifier achieved the best performance on the validation set:
 
 AUC: 85.93%, indicating strong discriminatory ability.
+
 Validation Accuracy: 0.90, the highest among the models.
+
 Balance: Maintains a good balance between precision and recall for both classes, particularly for the negative class, making it a reliable choice.
+
 The Random Forest model stands out as the best performer, demonstrating the effectiveness of the developed model in accurately predicting the probability of loan defaults. This information can be valuable for financial institutions to make more informed lending decisions and implement appropriate risk management strategies.
 
 
