@@ -10,28 +10,10 @@ The objective of this project is to develop a predictive model to estimate the p
 The dataset is provided by Claxon Excellence Academy for Professionals as part of their competition. It includes historical borrower information with various features that impact the probability of loan default. Key details about the data include:
 
 Source: Claxon Excellence Academy for Professionals competition dataset
+
 Description: Contains historical loan and borrower information with multiple features influencing default probability.
 
-- Features:
-
-loan_id
-gender
-disbursemet_date
-currency
-country
-sex
-is_employed
-job
-location
-loan_amount
-number_of_defaults
-outstanding_balance
-interest_rate
-age
-remaining term
-salary
-marital_status
-Loan Status
+Features: loan_id, gender, disbursemet_date, currency, country, sex, is_employed, job, location, loan_amount, number_of_defaults, outstanding_balance, interest_rate, age, remaining term, salary, marital_status, Loan Status
 
 # Methods
 
